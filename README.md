@@ -1,1 +1,1 @@
-# Để chạy được file trước tiên hãu mở file 5Qua(1).ipynb lên ggcolab rồi chạy từ trên xuống dưới để lấy file best.pt sau khi tải file best.pt về rồi thì cho vào project cùng cấp với file index.html trong file app.py hãy sửa đường dẫn đến file best.pt rồi chạy file app.py 
+# Để chạy được file trước tiên hãy mở file 5Qua(1).ipynb lên ggcolab rồi chạy từ trên xuống dưới để lấy file best.pt sau khi tải file best.pt về rồi thì cho vào project cùng cấp với file index.html trong file app.py hãy sửa đường dẫn đến file best.pt rồi chạy file app.py 
